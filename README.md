@@ -1,5 +1,5 @@
-<h1 align="center">Hi there👋, I'm Giovani Rodriguez</h1>
-<h3 align="center">A tech enthusiast and software engineer from Miami, FL 🌴</h3>
+<h1 align="center">Hi there👋, I'm Giovani</h1>
+<h3 align="center">A tech enthusiast and software engineer</h3>
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/giovaniluisrodriguez/"><img src="https://img.shields.io/badge/-giovaniluisrodriguez-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
@@ -15,4 +15,3 @@
 
 - 🔭  I’m currently working on [Scriptx](https://github.com/gio101046/scriptx-mobile) a subscription tracker mobile app made in React Native
 - 🌱  I’m currently learning how to use React, Flask and FastAPI frameworks
-- 📫  Reach me at me@grodriguez.dev
